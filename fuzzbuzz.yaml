@@ -1,0 +1,5 @@
+base:
+  language: go
+  version: "1.15"
+  deps:
+    - modules:
